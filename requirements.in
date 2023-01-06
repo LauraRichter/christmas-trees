@@ -1,0 +1,11 @@
+
+jupyter
+matplotlib>~3.6
+
+
+# dev requirements
+
+black
+flake8
+isort
+nbqa
